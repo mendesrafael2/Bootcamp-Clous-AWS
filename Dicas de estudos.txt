@@ -1,0 +1,13 @@
+- SQL
+- Git 
+- Estrutura de dados
+- Algoritmos
+- Consultar API REST
+
+--------------------------------------------------------------
+- Próxi e VPN
+- Web Soquect
+- Parsing - Passar de um formato para outro. (JSON -> String)
+- Básico de 2 paradigmas 
+- No SQL
+- Terminal
